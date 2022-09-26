@@ -9,11 +9,6 @@ color: white;
 
 .container{
 max-width: 1000px;
-
-}
-.container > *{
-    display: inline-block;
-}
-.list > div{
-    display: inline-block;
+margin-left: auto;
+margin-right: auto;
 }
